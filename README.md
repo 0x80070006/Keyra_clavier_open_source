@@ -6,11 +6,11 @@ Clavier Android français avec suggestions, correction, saisie multi-touch et pe
 
 ## Télécharger
 
-- [APK général v3.0](https://github.com/0x80070006/Keyra_clavier_open_source/releases/download/v3.0/Keyra_v3.0.apk)
-- [APK v11 pour Pixel 9a](https://github.com/0x80070006/Keyra_clavier_open_source/releases/download/v11/Keyra-Pixel-9a-v11.apk) — build explicitement nommé pour cet appareil ; compatibilité avec d'autres modèles non vérifiée.
+- [APK général v3.0.0](https://github.com/0x80070006/Keyra_clavier_open_source/releases/download/v3.0.0/Keyra-v3.0.0.apk)
+- [APK v11.0.0 pour Pixel 9a](https://github.com/0x80070006/Keyra_clavier_open_source/releases/download/v11.0.0/Keyra-Pixel-9a-v11.0.0.apk) — build explicitement nommé pour cet appareil ; compatibilité avec d'autres modèles non vérifiée.
 - [Toutes les versions](https://github.com/0x80070006/Keyra_clavier_open_source/releases)
 
-Les tags historiques conservent des formats différents. Les nouveaux tags devraient suivre `vMAJEUR.MINEUR.CORRECTIF` et les APK devraient porter le même numéro.
+Les tags et les APK publiés suivent désormais `vMAJEUR.MINEUR.CORRECTIF`. Les anciennes URL de téléchargement doivent être remplacées.
 
 ![Logo Keyra](assets/keyra-logo.png)
 
