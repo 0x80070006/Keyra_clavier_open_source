@@ -1,10 +1,10 @@
-# Keyra — Patch notes v3.0
+# Keyra — Patch notes v3.0.0
 
-**Version :** v3.0  
+**Version :** v3.0.0
 **Plateforme :** Android  
-**Release :** https://github.com/0x80070006/Christian_clavier_open_source/releases/tag/v3.0
+**Release :** https://github.com/0x80070006/Keyra_clavier_open_source/releases/tag/v3.0.0
 
-[⬇️ Télécharger directement l'APK](https://github.com/0x80070006/Christian_clavier_open_source/releases/download/v3.0/Keyra-Pixel-9a.apk) · [← Retour au README](./README.md)
+[Télécharger l'APK](https://github.com/0x80070006/Keyra_clavier_open_source/releases/download/v3.0.0/Keyra-v3.0.0.apk) · [Retour au README](./README.md)
 
 ---
 
